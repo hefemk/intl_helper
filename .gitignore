@@ -1,0 +1,21 @@
+# Files and directories created by pub
+.packages
+.pub/
+build/
+# Remove the following pattern if you wish to check in your lock file
+pubspec.lock
+
+# Directory created by dartdoc
+doc/api/
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Files created by intl_helper
+ih_intl_extract.bat
+ih_intl_extract.sh
+ih_intl_generate.bat
+ih_intl_generate.sh
