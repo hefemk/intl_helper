@@ -7,7 +7,7 @@ scan all the usage of `Intl.message()` to find out duplicate resources.
     pub global activate intl_helper
 
 ## How to use
-    pub run intl_helper
+    pub global run intl_helper
 Arguments:
 * -a, --arb-output (default: arb)
 * -i, --intl-output (default: lib/intl)
