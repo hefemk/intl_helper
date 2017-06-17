@@ -1,8 +1,8 @@
 name: intl_helper
 description: A tool for use intl_translate package easily.
 version: 0.1.0
-#homepage: https://github.com/hefemk/intl_helper
-#author: HEFE <hefe.mk@gmail.com>
+homepage: https://github.com/hefemk/intl_helper
+author: HEFE <hefe.mk@gmail.com>
 
 environment:
   sdk: '>=1.23.0 <2.0.0'
